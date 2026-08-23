@@ -1,0 +1,20 @@
+<svg width="430" height="230" viewBox="0 0 430 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .title { font-family: Consolas, monospace; font-size: 13px; font-weight: 700; fill: #a78bfa; }
+      .key   { font-family: Consolas, monospace; font-size: 12px; fill: #64748b; }
+      .val   { font-family: Consolas, monospace; font-size: 12px; fill: #e2e8f0; }
+    </style>
+  </defs>
+  <rect width="430" height="230" rx="12" fill="#0b1220"/>
+  <rect x="1" y="1" width="428" height="228" rx="11" fill="none" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="24" y="34" class="title">// quick_facts.json</text>
+
+  <text x="24" y="66"  class="key">focus       </text><text x="120" y="66"  class="val">Deep Learning, Computer Vision</text>
+  <text x="24" y="92"  class="key">stack       </text><text x="120" y="92"  class="val">Python, PyTorch, Jupyter</text>
+  <text x="24" y="118" class="key">building    </text><text x="120" y="118" class="val">NoteShield_AI (counterfeit note</text>
+  <text x="120" y="136" class="val">detection)</text>
+  <text x="24" y="162" class="key">learning    </text><text x="120" y="162" class="val">MLOps, model deployment</text>
+  <text x="24" y="188" class="key">reach me    </text><text x="120" y="188" class="val">github.com/Pratham010-hub</text>
+</svg>

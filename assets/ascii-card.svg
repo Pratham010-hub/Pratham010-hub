@@ -1,0 +1,24 @@
+<svg width="430" height="230" viewBox="0 0 430 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .ascii { font-family: Consolas, 'Courier New', monospace; font-size: 11px; fill: #38bdf8; white-space: pre; }
+      .label { font-family: Consolas, monospace; font-size: 12px; fill: #64748b; }
+    </style>
+  </defs>
+  <rect width="430" height="230" rx="12" fill="#0b1220"/>
+  <rect x="1" y="1" width="428" height="228" rx="11" fill="none" stroke="#1e293b" stroke-width="1"/>
+
+  <text x="24" y="34" class="ascii" xml:space="preserve">
+██████╗ ██████╗  █████╗ ████████╗██╗  ██╗
+██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
+██████╔╝██████╔╝███████║   ██║   ███████║
+██╔═══╝ ██╔══██╗██╔══██║   ██║   ██╔══██║
+██║     ██║  ██║██║  ██║   ██║   ██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝  ╚═╝
+  </text>
+
+  <text x="24" y="150" class="label">$ whoami</text>
+  <text x="24" y="170" class="label" fill="#94a3b8">Pratham — building things with data and models</text>
+  <text x="24" y="192" class="label">$ status</text>
+  <text x="24" y="212" class="label" fill="#94a3b8">Currently exploring computer vision + PyTorch</text>
+</svg>
