@@ -1,0 +1,5 @@
+# only needed locally when regenerating the portrait, not by the daily workflow
+pillow
+numpy
+opencv-python
+rembg

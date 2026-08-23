@@ -1,55 +1,42 @@
 <div align="center">
 
-![Header](./assets/banner.svg)
+<h1>Hi, I'm Pratham 👋</h1>
+<p>Building practical AI and computer-vision systems with Python and PyTorch.</p>
 
-</div>
+<p>
+  <a href="https://github.com/Pratham010-hub"><img src="https://img.shields.io/badge/GitHub-Pratham010--hub-181717?style=flat-square&logo=github" alt="Pratham on GitHub" /></a>
+  <a href="https://github.com/Pratham010-hub/NoteShield_AI"><img src="https://img.shields.io/badge/Featured-NoteShield%20AI-39d353?style=flat-square&logo=pytorch&logoColor=white" alt="NoteShield AI" /></a>
+</p>
 
-<br/>
+<img src="./header-contributions.svg" width="380" />
+<br>
+<img src="./contrib-heatmap.svg" width="860" />
 
-<table align="center">
-<tr>
-<td><img src="./assets/ascii-card.svg" alt="whoami"/></td>
-<td><img src="./assets/info-card.svg" alt="quick facts"/></td>
-</tr>
+<br><br>
+
+<img src="./header-whoami.svg" width="300" />
+<table>
+  <tr>
+    <td valign="top"><img src="./pratham-ascii.svg" width="370" /></td>
+    <td valign="top"><img src="./info-card.svg" width="490" /></td>
+  </tr>
 </table>
 
-<br/>
+<br>
 
-### 🛠️ Tech I work with
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<h2>Featured project</h2>
+<p>
+  <a href="https://github.com/Pratham010-hub/NoteShield_AI"><strong>NoteShield AI</strong></a> — GPU-accelerated counterfeit Indian currency detection using PyTorch transfer learning (EfficientNet-B0, with ResNet50 support), CUDA-aware training, and an end-to-end image-classification workflow.
 </p>
 
-### 📌 Featured project
-
-<p align="center">
-  <a href="https://github.com/Pratham010-hub/NoteShield_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pratham010-hub&repo=NoteShield_AI&theme=tokyonight" alt="NoteShield_AI"/>
-  </a>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-111827?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision" />
+  <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter" />
 </p>
 
-### 📊 GitHub stats
+<p><a href="https://github.com/Pratham010-hub?tab=repositories">Explore my repositories →</a></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham010-hub&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham010-hub&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-</p>
-
-### 🐍 Contribution graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pratham010-hub/Pratham010-hub/output/github-contribution-grid-snake-dark.svg" alt="snake contribution graph"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Pratham010-hub">
-    <img src="https://img.shields.io/badge/GitHub-Pratham010--hub-181717?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
+</div>
